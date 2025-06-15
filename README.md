@@ -5,8 +5,13 @@
 [ 详细文档点击这里 ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
 
 ## What is GoGoCode?  
+<<<<<<< HEAD
 改函数名next到next2
 东半球
+=======
+a也修改
+
+>>>>>>> a
 [中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
