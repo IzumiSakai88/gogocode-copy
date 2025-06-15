@@ -8,7 +8,7 @@
 改函数名next到next2
 东半球
 a也修改
-IzumiSakai
+
 
 [中文 README](README-cn.md)
 
